@@ -69,7 +69,8 @@ Un formulaire en bas de l'écran permet d'ajouter un nouvel utilisateur avec un 
 
 ## Contributeurs
 
-- [Votre Nom](mailto\:votremail@example.com)
+- [Souleymane Sall](https://github.com/Pvpasall)
+- [El Hadji Mamadou Sarr](https://github.com/el-hadji-mamadou-sarr)
 
 ## Licence
 
